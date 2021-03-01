@@ -12,6 +12,8 @@ Asteroid finders reward 50k
 ~5k Mass/ 40% or multiple high percentage ones -> Call Mole
 
 Write down the three distances (CRU, MIC, ARC) to the following doc
+https://docs.google.com/spreadsheets/d/1iMk8NyAuKkeYb1DZHs7qPDVeRUW3JF4ZTttlA6H8ZGM/edit?usp=sharing
+
 
 ## Prospector miners (Encouraged for those who have faith in their mining ability)
 After confirmation of Asteroid Miner who takes the Asteroid to refinery pays the findersreward to the Scanner
