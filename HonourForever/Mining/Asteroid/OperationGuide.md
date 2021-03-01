@@ -7,6 +7,7 @@ Scanners and Gunners as well as Prospectors can and should be recruited from in 
 ## Scanners (Everybody who wants to earn money can do this)
 Asteroid finders reward 50k
 ~5k Mass/ 20% -> Call Prospector
+
 ~5k Mass/ 40% or multiple high percentage ones -> Call Mole
 
 ## Prospector miners (Encouraged for those who have faith in their mining ability)
