@@ -4,6 +4,10 @@
 Aaron Halo Belt (CRU-L1 -> ARC-L3 [DOD: ~11.5 Mkm])
 With continued effort to discover the high quantity quantainium distance this number will change into a range according to the findings in [Tracking](#Tracking)
 
+## Asteroid evaluation
+[Asteroid value calculator](https://uexcorp.space/mining)
+
+
 ## Equipment 
 [Mininghead spreadsheet OLD](https://docs.google.com/spreadsheets/d/1irxSEnXMazxT9JIRHny37b65_0bEJF3VEo2Fug-NUFo/edit#gid=0) https://docs.google.com/spreadsheets/d/1irxSEnXMazxT9JIRHny37b65_0bEJF3VEo2Fug-NUFo/edit#gid=0
 
