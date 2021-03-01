@@ -2,7 +2,7 @@
 
 ## Location 
 Aaron Halo Belt (CRU-L1 -> ARC-L3 [DOD: ~11.5 Mkm])
-With continued effort to discover the high quantity quantainium distance this number will change into a range according to the findings in [Tracking](#Tracking-the-Aaron-Halo-Belt)
+With continued effort to discover the high quantity quantainium distance this number will change into a range according to the findings in [Tracking](#Tracking)
 
 ## Equipment 
 [Mininghead spreadsheet OLD](https://docs.google.com/spreadsheets/d/1irxSEnXMazxT9JIRHny37b65_0bEJF3VEo2Fug-NUFo/edit#gid=0) https://docs.google.com/spreadsheets/d/1irxSEnXMazxT9JIRHny37b65_0bEJF3VEo2Fug-NUFo/edit#gid=0
@@ -47,7 +47,7 @@ TBD
 
 eg.: 50% Quantanium, 2000 mass is not worth taking |40% Quantanium 5000 mass is worth for one [prospector](#prospector) | Multiple ~30% 5k worth for the [Argo Mole](#argo-mole)
 
-4. Note the appropriate distances in the [Tracking](#Tracking-the-Aaron-Halo-Belt) spreadsheet.
+4. Note the appropriate distances in the [Tracking](#Tracking) spreadsheet.
 5. Call Mining ships, according to the actual worth of the asteroid
 6. Get Payed finders reward
 7. Continue from step 2
@@ -82,10 +82,13 @@ Caution, refined [ORE](#ore) cannot be transported in a Prospector
 
 ## ORE
 
-### Tracking the Aaron Halo Belt
+### Tracking
+
+#### Aaron Halo Belt
 Please track the distance to ARC-L3 and CRU-L1 in the following google spreadsheet.
 [Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1iMk8NyAuKkeYb1DZHs7qPDVeRUW3JF4ZTttlA6H8ZGM/edit?usp=sharing) https://docs.google.com/spreadsheets/d/1iMk8NyAuKkeYb1DZHs7qPDVeRUW3JF4ZTttlA6H8ZGM/edit?usp=sharing
 
+#### Maybe there are other high density Volumes on the Verge of discovery
 
 ## Guidelines
 
