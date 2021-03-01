@@ -78,3 +78,26 @@ Caution, refined [ORE](#ore) cannot be transported in a Prospector
 
 
 ## ORE
+
+
+## Guidelines
+
+### [ORE](#ore) Ammount
+On normal ship scanners a range is given.
+ALWAYS calculate with the left Percentage as that guarantees that there is at LEAST that value in the asteroid
+
+### Mining Power and Instability
+
+#### OPC (Optimum Power Cracking)
+Keeping the energy level at or slightly above the optimal point.
+
+#### Pulse Cracking
+Increase power and approach the upper limit for optimal charging.
+Decrease power dramatically to make it fall back down again.
+
+### Ship spacing
+Only the Ships which are actively supplying power to the Asteroid should be in close proximity to the Asteroid.
+The ships which are only stabalizing the asteroid should be at the outter limit of the Laser range.
+
+### Cargo hauling
+Only take approx. one Prospector worth of Cargo to an [LZ](#lz) as there is a limit on the ammount of goods one LZ can buy at one certain time.
