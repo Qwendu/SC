@@ -47,7 +47,7 @@ TBD
 
 eg.: 50% Quantanium, 2000 mass is not worth taking |40% Quantanium 5000 mass is worth for one [prospector](#prospector) | Multiple ~30% 5k worth for the [Argo Mole](#argo-mole)
 
-4. Note the distance of the [ORE](#ore) to ARC-L3 in the corresponding files.
+4. Note the appropriate distances in the [Tracking](#Tracking-the-Aaron-Halo-Belt) spreadsheet.
 5. Call Mining ships, according to the actual worth of the asteroid
 6. Get Payed finders reward
 7. Continue from step 2
