@@ -29,7 +29,7 @@ TBD
 ### SCANNER
 
 - [600i](https://robertsspaceindustries.com/pledge/ships/600i/600i-Explorer)
-- [MSR Mercury Starrunner](https://robertsspaceindustries.com/pledge/ships/crusader-mercury-star-runner/Mercury-Star-Runner)
+- [MSR Mercury Star Runner](https://robertsspaceindustries.com/pledge/ships/crusader-mercury-star-runner/Mercury-Star-Runner)
 
 TBD: future additions in terms of improved RADAR or other helpful/changing utility
 
