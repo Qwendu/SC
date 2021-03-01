@@ -1,0 +1,80 @@
+# Asteroid Mining
+
+## Location 
+Aaron Halo Belt (CRU-L1 -> ARC-L3 [DOD: ~11.5 Mkm])
+
+## Equipment 
+[Mininghead spreadsheet OLD](https://docs.google.com/spreadsheets/d/1irxSEnXMazxT9JIRHny37b65_0bEJF3VEo2Fug-NUFo/edit#gid=0)
+
+https://docs.google.com/spreadsheets/d/1irxSEnXMazxT9JIRHny37b65_0bEJF3VEo2Fug-NUFo/edit#gid=0
+### MINER
+
+#### Prospector
+[Lancet MH1](https://starcitizen.tools/Lancet_MH1) Overclocked for Quantanium mining
+
+[Helix I](https://starcitizen.tools/Helix_I) for everything else
+
+#### Argo Mole
+
+Starboard/Port [Lancet MH2](https://starcitizen.tools/Lancet_MH2)
+
+Bow [Helix II](https://starcitizen.tools/Helix_II)
+
+Main thought beeing that the Lancet MH2 are debuffing the asteroid and the main power comes from the Helix II
+
+### RSI Orion
+
+TBD
+
+### SCANNER
+
+- [600i](https://robertsspaceindustries.com/pledge/ships/600i/600i-Explorer)
+- [MSR Mercury Starrunner](https://robertsspaceindustries.com/pledge/ships/crusader-mercury-star-runner/Mercury-Star-Runner)
+
+TBD: future additions in terms of improved RADAR or other helpful/changing utility
+
+### REFINERY
+
+TBD
+
+## Gameplay Loops
+
+### SCANNING
+
+1. GOTO Aaron Halo Belt as described in [Location](#location)
+2. Scan for targeted [ORE](#ore). This should be discussed in VC or TC before the operation begins. Most commonly Quantanium, as of 3.13, will be targeted.
+3. Determine if the asteroid is worth taking, either by a calculator or by an estimation.
+
+eg.: 50% Quantanium, 2000 mass is not worth taking |40% Quantanium 5000 mass is worth for one [prospector](#prospector) | Multiple ~30% 5k worth for the [Argo Mole](#argo-mole)
+
+4. Call Mining ships, according to the actual worth of the asteroid
+5. Get Payed finders reward
+6. Continue from step 2
+
+### MINING
+
+1. GOTO Aaron Halo Belt as described in [Location](#location)
+2. Scan for ore if none has been found
+3. If a suitable Asteroid has been found, team up with other miners
+4. Crack Asteroid fully into purple extractable pieces
+5. One Miner extracts and ships the goods to CRU-L1 for refinement
+6. Other Miners continue from step 2
+
+Miners take turns in extracting the Ore, so that after n asteroids are mined, all n members of the Miner Squad get paid.
+Miners should always double check if an Asteroid is worth taking!
+
+### REFINING
+
+## Getting Paid as a Miner
+
+### Unrefined [ORE](#ore)
+Unrefined [ORE](#ore) can be sold at the Refineries at the L1-Stations
+There it is sold for approx. 50% of its refined value. (This is a way of gauging the potential payout of a certain ammount of [ORE](#ore))
+
+### Refined [ORE](#ore)
+The refined [ORE](#ore) has to be transported to a [LZ](#lz) and sold at the trade terminal there.
+Caution, refined [ORE](#ore) cannot be transported in a Prospector
+
+
+
+## ORE
