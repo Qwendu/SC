@@ -42,14 +42,15 @@ TBD
 ### SCANNING
 
 1. GOTO Aaron Halo Belt as described in [Location](#location)
-2. Scan for targeted [ORE](#ore). This should be discussed in VC or TC before the operation begins. Most commonly Quantanium, as of 3.13, will be targeted.
+2. Scan for targeted [ORE](#ore). This should be discussed in VC or TC before the operation begins. Most commonly Quantanium, as of 3.13, will be targeted. 
 3. Determine if the asteroid is worth taking, either by a calculator or by an estimation.
 
 eg.: 50% Quantanium, 2000 mass is not worth taking |40% Quantanium 5000 mass is worth for one [prospector](#prospector) | Multiple ~30% 5k worth for the [Argo Mole](#argo-mole)
 
-4. Call Mining ships, according to the actual worth of the asteroid
-5. Get Payed finders reward
-6. Continue from step 2
+4. Note the distance of the [ORE](#ore) to ARC-L3 in the corresponding files.
+5. Call Mining ships, according to the actual worth of the asteroid
+6. Get Payed finders reward
+7. Continue from step 2
 
 ### MINING
 
@@ -57,8 +58,7 @@ eg.: 50% Quantanium, 2000 mass is not worth taking |40% Quantanium 5000 mass is 
 2. Scan for ore if none has been found
 3. If a suitable Asteroid has been found, team up with other miners
 4. Crack Asteroid fully into purple extractable pieces
-5. One Miner extracts and ships the goods to CRU-L1 for refinement
-6. Other Miners continue from step 2
+5. One Miner extracts and ships the [ORE](#ore) to CRU-L1 for refinement | Other Miners continue from step 2
 
 Miners take turns in extracting the Ore, so that after n asteroids are mined, all n members of the Miner Squad get paid.
 Miners should always double check if an Asteroid is worth taking!
@@ -78,6 +78,11 @@ Caution, refined [ORE](#ore) cannot be transported in a Prospector
 
 
 ## ORE
+
+### Tracking the Aaron Halo Belt
+Please track the distance to ARC-L3 and CRU-L1 in the following google spreadsheet.
+[Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1iMk8NyAuKkeYb1DZHs7qPDVeRUW3JF4ZTttlA6H8ZGM/edit?usp=sharing)
+https://docs.google.com/spreadsheets/d/1iMk8NyAuKkeYb1DZHs7qPDVeRUW3JF4ZTttlA6H8ZGM/edit?usp=sharing
 
 
 ## Guidelines
