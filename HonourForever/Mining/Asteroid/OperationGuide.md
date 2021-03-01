@@ -11,6 +11,8 @@ Asteroid finders reward 50k
 
 ~5k Mass/ 40% or multiple high percentage ones -> Call Mole
 
+Write down the three distances (CRU, MIC, ARC) to the following doc
+
 ## Prospector miners (Encouraged for those who have faith in their mining ability)
 After confirmation of Asteroid Miner who takes the Asteroid to refinery pays the findersreward to the Scanner
 Miners are responsible for their miningability, the transport of the goods and the refinement process
@@ -19,5 +21,7 @@ Miners are responsible for their miningability, the transport of the goods and t
 Gunners get 100k per successfull mole run
 Gunners are mainly used for stabalizing the asteroid
 Gunners are not responsible for refinement or transport thats the pilots job
+
+
 
 ## Feedback is appreciated
