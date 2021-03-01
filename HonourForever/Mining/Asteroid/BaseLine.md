@@ -52,6 +52,17 @@ eg.: 50% Quantanium, 2000 mass is not worth taking |40% Quantanium 5000 mass is 
 6. Get Payed finders reward
 7. Continue from step 2
 
+#### Scannable Asteroid
+![Example 1](ScannableRock.jpg "Scannable Asteroid")
+
+#### Mass and Ore-richness in Asteroid
+![Example 1](MassAndPercentage.jpg "Mass and Ore-richness in Asteroid")
+
+#### Mining Mode for Confirmation
+![Example 1](MiningMode.jpg "ining Mode for Confirmation")
+
+TBD: Example of Quantainium Asteroid
+
 ### MINING
 
 1. GOTO Aaron Halo Belt as described in [Location](#location)
