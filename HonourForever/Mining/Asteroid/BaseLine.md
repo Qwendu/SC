@@ -4,9 +4,8 @@
 Aaron Halo Belt (CRU-L1 -> ARC-L3 [DOD: ~11.5 Mkm])
 
 ## Equipment 
-[Mininghead spreadsheet OLD](https://docs.google.com/spreadsheets/d/1irxSEnXMazxT9JIRHny37b65_0bEJF3VEo2Fug-NUFo/edit#gid=0)
+[Mininghead spreadsheet OLD](https://docs.google.com/spreadsheets/d/1irxSEnXMazxT9JIRHny37b65_0bEJF3VEo2Fug-NUFo/edit#gid=0) https://docs.google.com/spreadsheets/d/1irxSEnXMazxT9JIRHny37b65_0bEJF3VEo2Fug-NUFo/edit#gid=0
 
-https://docs.google.com/spreadsheets/d/1irxSEnXMazxT9JIRHny37b65_0bEJF3VEo2Fug-NUFo/edit#gid=0
 ### MINER
 
 #### Prospector
@@ -84,8 +83,7 @@ Caution, refined [ORE](#ore) cannot be transported in a Prospector
 
 ### Tracking the Aaron Halo Belt
 Please track the distance to ARC-L3 and CRU-L1 in the following google spreadsheet.
-[Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1iMk8NyAuKkeYb1DZHs7qPDVeRUW3JF4ZTttlA6H8ZGM/edit?usp=sharing)
-https://docs.google.com/spreadsheets/d/1iMk8NyAuKkeYb1DZHs7qPDVeRUW3JF4ZTttlA6H8ZGM/edit?usp=sharing
+[Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1iMk8NyAuKkeYb1DZHs7qPDVeRUW3JF4ZTttlA6H8ZGM/edit?usp=sharing) https://docs.google.com/spreadsheets/d/1iMk8NyAuKkeYb1DZHs7qPDVeRUW3JF4ZTttlA6H8ZGM/edit?usp=sharing
 
 
 ## Guidelines
