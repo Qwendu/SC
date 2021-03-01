@@ -64,6 +64,9 @@ Miners take turns in extracting the Ore, so that after n asteroids are mined, al
 Miners should always double check if an Asteroid is worth taking!
 
 ### REFINING
+Currently the Dinyx Solventation should be used at CRU-L1.
+Keep in mind that it will take approx. 1d to complete a full Prospector.
+The progress is saved between servers, but not between patches!
 
 ## Getting Paid as a Miner
 
