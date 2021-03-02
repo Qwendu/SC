@@ -56,7 +56,12 @@ Kilo | K | 2K1/2k1 = 2 100 km
 Unit | u | 3U1/3u1 = 3.1 km
 milli | m | 3m1 = 0.0031 km / 3.1 m 
 
+- At last the travel direction is put as the second part
+
+
 Example:
 > PO |1M1 Hurston | 30M MicroTech
 
 > HDMS-Noragaard 20| HDMS-Dobbs
+
+
