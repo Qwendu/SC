@@ -29,6 +29,10 @@ Please not that these distances are the ones to the planets!!
 These distances allow for a rough map creation and asteroid tracking and in future it will be faulty but as of *3.13* the planets do not orbit and so they can be used for distance and vector calculations.
 In future maybe the jumppoints and the Stanton Star it self can be used for relative positioning.
 
+The [Spreadsheet](https://docs.google.com/spreadsheets/d/1iMk8NyAuKkeYb1DZHs7qPDVeRUW3JF4ZTttlA6H8ZGM/edit?usp=sharing) can be found here:
+https://docs.google.com/spreadsheets/d/1iMk8NyAuKkeYb1DZHs7qPDVeRUW3JF4ZTttlA6H8ZGM/edit?usp=sharing
+
+
 ### Mining Operations
 Mining Operations offer a huge opportunity to probe the Aaron Halo Belt as they are functionally always within it.
 Here in a similar style the Positions of the Asteroids should be tracked.
