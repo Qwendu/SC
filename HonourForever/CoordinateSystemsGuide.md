@@ -57,7 +57,7 @@ Unit | u | 3U1/3u1 = 3.1 km
 milli | m | 3m1 = 0.0031 km / 3.1 m 
 
 - At last the travel direction is put as the second part
-
+- These can be chained together and are read from left to right
 
 Example:
 > PO |1M1 Hurston | 30M MicroTech
