@@ -15,6 +15,8 @@ CRU | 31.924 | - | 42.312 | 57.469
 ARC | 22.881 | 42.312 | - | 59.462
 MIC | 38.408 | 57.469 | 59.462 | - 
 
+With this data a representation of the System can be constructed, through which collected coordiantes can be put into terms of travel instructions.
+
 
 ## Coordinates for Planetoid-surfaces
 Through obvious granularity/accuracy problems of the method used for [planets and mining claims](#Coordinates-for-Planetoids) a different system has to be used for unmarked POI on planetoids.
