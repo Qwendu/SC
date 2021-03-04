@@ -8,7 +8,7 @@
 This leads to a robust system which can be adopted for other organisations as well
 
 
-## Honourian Conventions
+## Honourian Convention suggestions
 
 ### Possible Formats
 
